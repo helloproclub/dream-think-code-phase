@@ -63,7 +63,7 @@ Yup, gak masalah asal berkomitmen aja pada setiap tim ide yang dikerjain. Tetapi
 * Biasanya semua tim tetep berangkat, (soal ongkos bisa diatur), cuman biasanya gak dapet sertifikat doang.
 * Masalah Sertifikat, kadang ada beberapa lomba yang bisa ngasih lebih kok (dari pengalaman), tapi ada yang enggak juga
 
-**Ide saya kurang cocok buat lomba nih ?? ex : Sistem Informasi Aplikasi Laundry**
+**Ide saya kurang cocok buat lomba nih ?? ex : Sistem Informasi Aplikasi Laundry**    
 Submit aja, meskipun ide-nya gak cocok buat kompetisi, biasanya ada 1, atau 2 kompetisi yang cocok / bisa disubmit :)
 
 **Sayang nih kalo produknya sampai Protoyping doang, takutnya malah jadi sesuatu yang kurang berguna.**    
