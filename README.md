@@ -28,7 +28,7 @@
 *Note : Tanggal masuk kuliah sekitar 20 Agustus 2017*
 
 ### Links
-* Form Dream Phase : [goo.gl/CwLcBF](goo.gl/CwLcBF)
+* Form Dream Phase : [goo.gl/CwLcBF](http://goo.gl/CwLcBF)
 * Result Sheet : [Shared on group](#)
 
 ### Rules
